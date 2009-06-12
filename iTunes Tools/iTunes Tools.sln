@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Similar Artist Generator", "iTunes Tools\Similar Artist Generator.csproj", "{19BB3EAB-4B1C-4168-811D-03BE796F9113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{ECA87490-6B11-4747-80B1-426CBCE9236D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{0AD25348-1256-4770-A289-D432B1FCCD4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{8DCAB209-9292-4C9E-81C1-4960AB2E4D45}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{A7958590-2B8F-4BB0-A3BA-257330910BB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19BB3EAB-4B1C-4168-811D-03BE796F9113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BB3EAB-4B1C-4168-811D-03BE796F9113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BB3EAB-4B1C-4168-811D-03BE796F9113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BB3EAB-4B1C-4168-811D-03BE796F9113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA87490-6B11-4747-80B1-426CBCE9236D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA87490-6B11-4747-80B1-426CBCE9236D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA87490-6B11-4747-80B1-426CBCE9236D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA87490-6B11-4747-80B1-426CBCE9236D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD25348-1256-4770-A289-D432B1FCCD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD25348-1256-4770-A289-D432B1FCCD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD25348-1256-4770-A289-D432B1FCCD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD25348-1256-4770-A289-D432B1FCCD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DCAB209-9292-4C9E-81C1-4960AB2E4D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCAB209-9292-4C9E-81C1-4960AB2E4D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCAB209-9292-4C9E-81C1-4960AB2E4D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCAB209-9292-4C9E-81C1-4960AB2E4D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7958590-2B8F-4BB0-A3BA-257330910BB3}.Debug|Any CPU.ActiveCfg = Debug
+		{A7958590-2B8F-4BB0-A3BA-257330910BB3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
